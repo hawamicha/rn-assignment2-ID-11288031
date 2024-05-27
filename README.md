@@ -2,7 +2,7 @@
 
 This is a simple Expo app that displays a view with the text "My name is Hawa". 
 
-![App Screenshot] (assets\appScreenshot.png)
+![App Screenshot](.\assets\appScreenshot.png)
 
 ## Installation
 
